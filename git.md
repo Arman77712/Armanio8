@@ -57,3 +57,4 @@ Hello world
 * [photo_5389109407658394194_y](https://user-images.githubusercontent.com/119788136/206403636-85d79aed-e171-410b-b2f8-b9e13117e666.jpg)
  внешний репозиторий. ТРЕБУЕТ АВТОРИЗАЦИИ на внешнем репозитории 
 
+fdf
